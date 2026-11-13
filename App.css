@@ -1,0 +1,138 @@
+
+/* body {
+  background-color: #eaf3ff;
+  font-family: Arial;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  color: #1d5c9e;
+}
+
+p {
+  color: #555;
+}
+
+.input-box {
+  background-color: white;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+input, textarea {
+  width: 90%;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #9bbfe5;
+  border-radius: 5px;
+}
+
+textarea {
+  height: 80px;
+}
+
+button {
+  background-color: #2878d0;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.note {
+  background-color: white;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.note h3 {
+  color: #1d5c9e;
+} */
+
+body {
+  background-color: #eaf3ff;
+  font-family: Arial;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  color: #1d5c9e;
+}
+
+h2 {
+  color: #24568d;
+}
+
+p {
+  color: #555;
+}
+
+.input-box {
+  background-color: white;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+input, textarea, select {
+  width: 90%;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #9bbfe5;
+  border-radius: 5px;
+}
+
+textarea {
+  height: 80px;
+}
+
+input[type="color"] {
+  width: 60px;
+  height: 40px;
+  display: block;
+}
+
+label {
+  display: block;
+  color: #24568d;
+}
+
+button {
+  background-color: #2878d0;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #174a85;
+}
+
+.note {
+  padding: 15px;
+  margin: 15px;
+  border-radius: 8px;
+  text-align: left;
+  border: 1px solid #c8ddf5;
+}
+
+.note h3 {
+  color: #1d5c9e;
+}
